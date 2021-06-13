@@ -19,5 +19,4 @@ Output of the program are shown.
 Accuracy graph of the project is: 
 ![plot](https://github.com/hasansust32/Heart_Attack_Predic_Using_Machine_Learning_Algorithm/blob/main/OutPut%20Image%20Of%20the%20Machine%20Learning%20Model/Model%20Time%20graph.png)
 
-SNS Heatmap of the project: 
-![plot](https://github.com/hasansust32/Heart_Attack_Predic_Using_Machine_Learning_Algorithm/blob/main/OutPut%20Image%20Of%20the%20Machine%20Learning%20Model/sns%20heatmap.png)
+
